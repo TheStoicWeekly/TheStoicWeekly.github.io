@@ -7,7 +7,7 @@ on:
     branches:
       - master
 jobs:
-  build:
+  build: 
     name: "Test with Jekyll ${{ matrix.jekyll }}"
     runs-on: "ubuntu-latest"
     strategy:
