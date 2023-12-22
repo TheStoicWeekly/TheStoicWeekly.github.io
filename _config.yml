@@ -41,7 +41,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: auto
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
@@ -50,12 +50,12 @@ minima:
 
   # Generate social links in footer.
   #social_links:
-    - { platform: WhatsApp,          user_url: "https://whatsapp.com/channel/0029VaHCyG88V0ttgYkC1I3d" }
-    - { platform: Telegram,       user_url: "https://t.me/TheStoicWeekly" }
-    - { platform: Discord,       user_url: "https://discord.gg/NfDhkP42nT" }
-    - { platform: GitHub,         user_url: "https://github.com/TheStoicWeekly" }
-    - { platform: Reddit,         user_url: "https://github.com/jekyll/minima" }
-    - { platform: Newsletter, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+  #   - { platform: WhatsApp,          user_url: "https://whatsapp.com/channel/0029VaHCyG88V0ttgYkC1I3d" }
+  #  - { platform: Telegram,       user_url: "https://t.me/TheStoicWeekly" }
+  # - { platform: Discord,       user_url: "https://discord.gg/NfDhkP42nT" }
+  # - { platform: GitHub,         user_url: "https://github.com/TheStoicWeekly" }
+  # - { platform: Reddit,         user_url: "https://github.com/jekyll/minima" }
+  # - { platform: Newsletter, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
 
 
 
