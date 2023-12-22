@@ -7,6 +7,5 @@
 #
 layout: home
 ---
-# The Stoic Weekly
 
 Coming Soon
