@@ -5,8 +5,7 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: 
-The Stoic Weekly is an independent website which address Stoicism related content every week. 
+description: The Stoic Weekly is an independent website which address Stoicism related content every week. 
 Subscribe to our newsletter to get your weekly dose delivered to your inbox!
 
 # Build settings
