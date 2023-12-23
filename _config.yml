@@ -50,12 +50,12 @@ minima:
 
   # Generate social links in footer.
   social_links:
-    - { platform: WhatsApp,          user_url: "https://whatsapp.com/channel/0029VaHCyG88V0ttgYkC1I3d" }
-    - { platform: telegram,       user_url: "https://t.me/TheStoicWeekly" }
-    - { platform: Discord,       user_url: "https://discord.gg/NfDhkP42nT" }
-    - { platform: github,         user_url: "https://github.com/TheStoicWeekly" }
-    - { platform: Reddit,         user_url: "https://github.com/jekyll/minima" }
-    - { platform: Mail, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+    # - { platform: WhatsApp,          user_url: "https://whatsapp.com/channel/0029VaHCyG88V0ttgYkC1I3d" }
+    # - { platform: telegram,       user_url: "https://t.me/TheStoicWeekly" }
+    # - { platform: Discord,       user_url: "https://discord.gg/NfDhkP42nT" }
+    # - { platform: github,         user_url: "https://github.com/TheStoicWeekly" }
+    # - { platform: Reddit,         user_url: "https://github.com/jekyll/minima" }
+    # - { platform: Mail, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
 
 
 
