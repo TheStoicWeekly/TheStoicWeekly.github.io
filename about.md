@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-# Embrace Stoic Wisdom: Dive Deep with The Stoic Weekly!
+## Embrace Stoic Wisdom: Dive Deep with The Stoic Weekly!
 The world throws everything at us. But wouldn't it be liberating to navigate it with the calm strength and clear thinking of a Stoic?
 
 The Stoic Weekly is your portal to that ancient wisdom, delivered fresh every week. This independent website delves into the heart of Stoicism, offering practical insights and actionable steps to help you find:
@@ -36,13 +36,15 @@ P.S. Share this with your friends and family! Spread the Stoic message and creat
 
 This website is based on Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
+You can find the source code for Minima at:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
-You can find the source code for The Stoic Weekly at GitHub:
+You can find the source code for The Stoic Weekly at:
 [TheStoicWeekly][TSW-organization] /
 [TheStoicWeekly.github.io](https://github.com/TheStoicWeekly/TheStoicWeekly.github.io)
 
 
 [TSW-organization]: https://github.com/TheStoicWeekly
+[jekyll]: https://github.com/jekyll/jekyll
+[jekyll-organization]: https://github.com/jekyll
