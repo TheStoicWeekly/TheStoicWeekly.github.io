@@ -6,7 +6,7 @@ author:
 - Jas
 meta: "Springfield"
 ---
-## Life's a Trip, Dude: A Chill Guide to Stoicism
+## Life's a Trip Dude, Chill.
 
 Life, man. It's like a rollercoaster on steroids, hurtling you between epic highs and stomach-churning lows. One minute you're on top of the world, the next you're drenched in the rain. It's enough to make anyone want to curl up under a pile of samosas and call it quits.
 
