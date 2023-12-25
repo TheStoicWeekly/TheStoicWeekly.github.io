@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "A No Brainer's Guide to Stoicism"
-categories: Introduction
+categories: intro
 author:
 - Jas
 meta: "Springfield"
 ---
-## A No Brainer's Guide to Stoicism
+## Life's a Trip, Dude: A Chill Guide to Stoicism
 
 Life, man. It's like a rollercoaster on steroids, hurtling you between epic highs and stomach-churning lows. One minute you're on top of the world, the next you're drenched in the rain. It's enough to make anyone want to curl up under a pile of samosas and call it quits.
 
@@ -24,4 +24,4 @@ Here's the deal:
 
 5. **Remember, this too shall pass:** Even the worst monsoon eventually gives way to sunshine, and even the most epic hangovers fade (eventually). Stoicism reminds us that everything is temporary, the good, the bad, and the gulab jamun-induced sugar crash. So savor the good times, learn from the bad, and remember that this too, like that third helping of jalebi, will soon be a distant memory.
 
-Stoicism isn't about magic spells or quick fixes. It's a journey of self-discovery, a way to chill out when life throws you a wobbly rickshaw ride. It's about finding your inner strength, embracing the good, the bad, and the water-spilled-on-your-phone, and rolling with the punches like a karate pro. So take a deep breath, focus on what you can control, and remember, bro, life's a trip – enjoy the ride!
+Stoicism isn't about magic spells or quick fixes. It's a journey of self-discovery, a way to chill out when life throws you a wobbly rickshaw ride. It's about finding your inner strength, embracing the good, the bad, and the water-spilled-on-your-phone, and rolling with the punches like a karate pro. So take a deep breath, focus on what you can control, and remember, dude, life's a trip – enjoy the ride!
