@@ -31,3 +31,8 @@ We all have something that makes our hearts sing, something that gives life mean
  Even the worst monsoon eventually gives way to sunshine, and even the most epic hangovers fade (eventually). Stoicism reminds us that everything is temporary, the good, the bad, and the gulab jamun-induced sugar crash. So savor the good times, learn from the bad, and remember that this too, like that third helping of jalebi, will soon be a distant memory.
 
 Stoicism isn't about magic spells or quick fixes. It's a journey of self-discovery, a way to chill out when life throws you a wobbly rickshaw ride. It's about finding your inner strength, embracing the good, the bad, and the water-spilled-on-your-phone, and rolling with the punches like a karate pro. So take a deep breath, focus on what you can control, and remember, dude, life's a trip – enjoy the ride!
+
+
+Thank you for reading!
+
+Share your feedback at [jassingh.7995@gmail.com](mailto:jassingh.7995@gmail.com?subject=Feedback).
