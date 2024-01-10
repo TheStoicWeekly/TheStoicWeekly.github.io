@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A New Year's Guide to Stoic Living"
+description: Ditch resolutions, find your compass. Stoicism isn't six-packs, it's inner peace amidst life's storms. Celebrate small wins, embrace detours, be good (not perfect), and savor the sunshine after rain. This year, find your inner Stoic. Click for the full guide!
 categories: post
 author:
 - Jas
@@ -20,7 +21,7 @@ As we navigate the precipice of a new year, the familiar allure of resolutions b
 
 Instead of fixating on distant, ill-defined goals, Stoicism urges us to focus on what truly lies within our grasp: our own thoughts, reactions, and perspectives. This isn't to ignore practical responsibilities – a leaky faucet, for example, should still be addressed – but rather to cultivate a mindful acceptance of what we cannot control, such as a traffic jam or a colleague's bad mood. We become, not helpless passengers tossed by the waves, but skilled surfers riding them with equanimity and strength.
 
-Recall the mountain of resolutions from past years, abandoned like tangled Christmas lights as January wanes. Stoicism reminds us that even Everest is not conquered in a single sprint. Celebrate the small victories, the mastered asana, the finished book. Learn from the stumbles, the missed deadlines, the detours along the way. Embrace the journey itself, even if it takes you through unexpected lanes of experience, like a vibrant Holi celebration in Ramgarh Cantonment.
+Recall the mountain of resolutions from past years, abandoned like tangled Christmas lights as January wanes. Stoicism reminds us that even Everest is not conquered in a single sprint. Celebrate the small victories, the mastered asana, the finished book. Learn from the stumbles, the missed deadlines, the detours along the way. Embrace the journey itself, even if it takes you through unexpected lanes of experience, like a vibrant Holi celebration.
 
 Being good, in the Stoic sense, isn't about donning a halo or resorting to performative altruism. It is about treating others with dignity and respect, even when they behave like unruly monkeys guarding a banana stash. It is about standing up for what you believe in, even when the easier path is a scroll through the negativity of social media. True good karma isn't measured in lottery wins; it is the inner peace that blossoms from aligning your actions with your values, even when life throws you a curveball.
 
