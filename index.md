@@ -7,7 +7,6 @@
 #
 layout: home
 ---
-# Welcome to The Stoic Weekly!
 
 The world throws everything at us. But wouldn't it be liberating to navigate it with the calm strength and clear thinking of a Stoic?
 

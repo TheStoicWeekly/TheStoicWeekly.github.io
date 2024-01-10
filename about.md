@@ -3,10 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 ### Embrace Stoic Wisdom: Dive Deep with The Stoic Weekly!
 
 
-###### Here's what you can expect from The Stoic Weekly:
+#### Here's what you can expect from The Stoic Weekly:
 
 •	Weekly deep dives into key Stoic concepts and practices.
 
@@ -16,7 +17,7 @@ permalink: /about/
 
 •	Thought-provoking discussions and community engagement.
 
-###### Don't wait! Subscribe to The Stoic Weekly newsletter today and:
+#### Don't wait! Subscribe to The Stoic Weekly newsletter today and:
 
 •	Receive your weekly dose of Stoic wisdom straight to your inbox.
 
@@ -26,11 +27,10 @@ permalink: /about/
 
 •	Don't let another day pass you by without harnessing the power of Stoicism. 
 
-###### Subscribe now and embark on your Stoic journey!
 
 P.S. Share this with your friends and family! Spread the Stoic message and create a ripple effect of wisdom and well-being.
 
-###### The Stoic Weekly: Cultivating a life of virtue, one week at a time.
+##### The Stoic Weekly: Cultivating a life of virtue, one week at a time.
 
 
 This website is based on Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
