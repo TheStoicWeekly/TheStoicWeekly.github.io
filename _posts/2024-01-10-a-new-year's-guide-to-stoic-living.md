@@ -13,7 +13,9 @@ Welcome to the year of mindful living. May your journey be enriching, your persp
 As we navigate the precipice of a new year, the familiar allure of resolutions beckons. Yet, let us pause. These ambitious pronouncements, often hastily etched on fleeting napkin scraps, tend to crumble under the weight of their own unrealism. This year, instead of succumbing to the pressure of self-transformation, let us embrace a different path: the path of Stoicism.
 
 
-> *Stoicism is not about sculpting a six-pack physique or attaining some unattainable nirvana. It is, rather, the art of navigating life's tempestuous sea with tranquility and grace. Imagine it as a warm ember glowing amidst a monsoon's fury – a source of comfort and inner stability amidst the external chaos.*
+
+> Stoicism is not about sculpting a six-pack physique or attaining some unattainable nirvana. It is, rather, the art of navigating life's tempestuous sea with tranquility and grace. Imagine it as a warm ember glowing amidst a monsoon's fury – a source of comfort and inner stability amidst the external chaos.
+
 
 
 Instead of fixating on distant, ill-defined goals, Stoicism urges us to focus on what truly lies within our grasp: our own thoughts, reactions, and perspectives. This isn't to ignore practical responsibilities – a leaky faucet, for example, should still be addressed – but rather to cultivate a mindful acceptance of what we cannot control, such as a traffic jam or a colleague's bad mood. We become, not helpless passengers tossed by the waves, but skilled surfers riding them with equanimity and strength.
