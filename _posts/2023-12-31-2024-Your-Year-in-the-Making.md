@@ -27,3 +27,8 @@ No need for skulls and bones. Your *"memento mori"* can be that sunrise remindin
 The stoics called it *"eudaimonia"* – living in harmony with your true self. It's not about becoming a superhero, but about finding what makes your soul sing. Maybe it's cracking jokes with friends, painting sunsets, or helping a lost puppy find its way home. When you tap into that sunshine, every day becomes a good day, even the cloudy ones.
 
 So, there you have it. Forget the fortune cookies, 2024 is what you make it. Embrace the chai spills, celebrate the tiny sprouts, and find your own sunshine. With a dash of stoic wisdom and a whole lot of you, 2024 can be pretty darn epic, after all. Remember, *"The only person you are destined to become is the person you decide to be."* (Ralph Waldo Emerson) Now go forth and paint your masterpiece!
+
+
+Thank you for reading!
+
+Share your feedback at [jassingh.7995@gmail.com](mailto:jassingh.7995@gmail.com?subject=Feedback).
