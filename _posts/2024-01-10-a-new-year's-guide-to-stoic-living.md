@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A New Year's Guide to Stoic Living"
+title: "Ditch the Pressure, Embrace the Journey: A New Year's Guide to Stoic Living"
 description: Ditch resolutions, find your compass. Stoicism isn't six-packs, it's inner peace amidst life's storms. Celebrate small wins, embrace detours, be good (not perfect), and savor the sunshine after rain. This year, find your inner Stoic. Click for the full guide!
 categories: post
 author:
@@ -8,12 +8,10 @@ author:
 meta: "Springfield"
 comments: true
 ---
-### Ditch the Pressure, Embrace the Journey: A New Year's Guide to Stoic Living
-
-Welcome to the year of mindful living. May your journey be enriching, your perspective grounded, and your spirit eternally unfazed.
 
 As we navigate the precipice of a new year, the familiar allure of resolutions beckons. Yet, let us pause. These ambitious pronouncements, often hastily etched on fleeting napkin scraps, tend to crumble under the weight of their own unrealism. This year, instead of succumbing to the pressure of self-transformation, let us embrace a different path: the path of Stoicism.
 
+Welcome to the year of mindful living. May your journey be enriching, your perspective grounded, and your spirit eternally unfazed.
 
 
 > Stoicism is not about sculpting a six-pack physique or attaining some unattainable nirvana. It is, rather, the art of navigating life's tempestuous sea with tranquility and grace. Imagine it as a warm ember glowing amidst a monsoon's fury – a source of comfort and inner stability amidst the external chaos.

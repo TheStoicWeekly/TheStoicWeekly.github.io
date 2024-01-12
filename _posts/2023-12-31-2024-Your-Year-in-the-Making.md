@@ -7,13 +7,16 @@ author:
 meta: "Springfield"
 comments: true
 ---
-## New year, new you?
 
-Forget crystal balls and horoscopes – let's talk real about 2024 being *"your year."* Sure, the stars might have something to say, but the truth is, YOU hold the paintbrush for this blank canvas. So, let's ditch the pressure and paint a masterpiece with some everyday stoic vibes:
+Forget crystal balls and horoscopes – let's talk real about 2024 being *"your year."* Sure, the stars might have something to say, but the truth is, YOU hold the paintbrush for this blank canvas. 
+
+So, let's ditch the pressure and paint a masterpiece with some everyday stoic vibes:
 
 ### **Think of life like a chai stall:**
 
 Things might get hot and steamy, sometimes the milk boils over, and chai runs out quicker than you'd like. But hey, you can always adjust the heat, add more water, or grab another cup. It's all about adapting, staying calm, and savoring the good sips, even when things get a little messy. That's the *"amor fati"* spirit – accepting what you can't control and making the most of what you can.
+
+> New year, new me?
 
 ### **Progress, not perfection:**
 

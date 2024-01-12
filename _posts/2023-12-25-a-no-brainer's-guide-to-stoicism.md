@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "A No Brainer's Guide to Stoicism"
+title: "A No Brainer's Guide to Stoicism: Life's a Trip Dude, Chill."
 categories: intro
 author:
 - Jas
 meta: "Springfield"
 comments: true
 ---
-## Life's a Trip Dude, Chill.
 
 Life, man. It's like a rollercoaster on steroids, hurtling you between epic highs and stomach-churning lows. One minute you're on top of the world, the next you're drenched in the rain. It's enough to make anyone want to curl up under a pile of samosas and call it quits.
 
