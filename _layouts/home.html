@@ -1,6 +1,5 @@
 ---
 layout: base
-show_excerpts: true
 ---
 
 <div class="home">
@@ -32,7 +31,7 @@ show_excerpts: true
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- site.show_excerpts -%}
+        {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
       </li>

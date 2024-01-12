@@ -8,7 +8,7 @@ author:
 description: Your Weekly Dose of Wisdom
 
 # Build settings
-show_excerpts: true
+
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
@@ -29,7 +29,7 @@ header_pages:
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
+show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
