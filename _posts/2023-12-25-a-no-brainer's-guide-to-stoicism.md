@@ -5,6 +5,7 @@ categories: intro
 author:
 - Jas
 meta: "Springfield"
+comments: true
 ---
 ## Life's a Trip Dude, Chill.
 

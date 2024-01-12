@@ -42,18 +42,20 @@ minima:
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: auto
-  
+  show_excerpts: true
+    google_analytics: UA-NNNNNNNN-N
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #date_format: "%b-%d-%Y"
-
+  disqus:
+    shortname: thestoic-weekly
   # Generate social links in footer.
-  #social_links:
-    # - { platform: WhatsApp,          user_url: "https://whatsapp.com/channel/0029VaHCyG88V0ttgYkC1I3d" }
-    # - { platform: telegram,       user_url: "https://t.me/TheStoicWeekly" }
+  social_links:
+     - { platform: pinterest,          user_url: "https://in.pinterest.com/TheStoicWeekly/" }
+     - { platform: telegram,       user_url: "https://t.me/TheStoicWeekly" }
     # - { platform: Discord,       user_url: "https://discord.gg/NfDhkP42nT" }
-    # - { platform: github,         user_url: "https://github.com/TheStoicWeekly" }
+     - { platform: github,         user_url: "https://github.com/TheStoicWeekly" }
     # - { platform: Reddit,         user_url: "https://github.com/jekyll/minima" }
     # - { platform: Mail, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
 

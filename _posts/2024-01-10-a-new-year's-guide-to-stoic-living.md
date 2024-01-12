@@ -6,6 +6,7 @@ categories: post
 author:
 - Jas
 meta: "Springfield"
+comments: true
 ---
 ### Ditch the Pressure, Embrace the Journey: A New Year's Guide to Stoic Living
 
