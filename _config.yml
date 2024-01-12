@@ -8,7 +8,7 @@ author:
 description: Your Weekly Dose of Wisdom
 
 # Build settings
-
+  show_excerpts: true
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
@@ -42,7 +42,6 @@ minima:
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: auto
-  show_excerpts: true
   google_analytics: UA-NNNNNNNN-N
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
