@@ -17,7 +17,7 @@ permalink: /about/
 
 •	Thought-provoking discussions and community engagement.
 
----
+
 
 #### **Don't wait! Subscribe to The Stoic Weekly newsletter today and:**
 
@@ -29,7 +29,7 @@ permalink: /about/
 
 •	Don't let another day pass you by without harnessing the power of Stoicism. 
 
----
+
 
 P.S. Share this with your friends and family! Spread the Stoic message and create a ripple effect of wisdom and well-being.
 
